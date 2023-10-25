@@ -1,7 +1,7 @@
-# Simulação Papelaria
-## Aula Prática
+# Papelaria
+## Simulação - Aula Prática
 
-paragrafo
+Nessa simulação utilizei algumas DIVs para fazer os card dos produtos, além de usar algumas personalizações no CSS para dar mais vida e interatividade na página.
 
 ## Tecnologias
 
